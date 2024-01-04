@@ -2,4 +2,4 @@
 ----
 ## Los programas mas importantes son:
 - El simulador de las ventas de un puesto de periodico de distribución discreta y continua
-- el programa de resolucion de ecuaciones diferenciales por distintos metodos.
+- El programa de resolucion de ecuaciones diferenciales por distintos metodos.
